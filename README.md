@@ -8,7 +8,7 @@ The aim of this repo is to demonstrate the application of LIME to a pretrained I
 ![image](https://github.com/user-attachments/assets/9c83ddc9-7fba-499c-a29f-69590db0c171)
 
 > parts of the image was responsible for the Groom prediction according to LIME.
-https://github.com/rmr327/LocalLime/tree/main
+
 ![image](https://github.com/user-attachments/assets/338e1d4e-c37a-4f92-8674-de2a9e486ce2)
 
 > parts of the image that positively contributed to the groom prediction (highlighted in green), and also the parts of the image that negatively contributed to the groom prediction (highligted in red).
